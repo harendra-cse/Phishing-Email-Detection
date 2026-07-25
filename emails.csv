@@ -1,0 +1,17 @@
+text,label
+"Congratulations! You won a prize. Click this link to claim now.",phishing
+"Urgent! Your bank account will be blocked. Verify your account immediately.",phishing
+"You have won $1000. Send your bank details to receive the money.",phishing
+"Click here to reset your password immediately or your account will be closed.",phishing
+"Your account has suspicious activity. Verify your identity using this link.",phishing
+"Free gift card waiting for you. Click now to claim your reward.",phishing
+"Dear customer, your payment failed. Click the link to update your information.",phishing
+"Your email account will expire today. Login now to keep it active.",phishing
+"Hi, your meeting is scheduled for tomorrow at 10 AM.",safe
+"Dear student, your assignment submission deadline is Friday.",safe
+"Your college timetable has been updated. Please check the student portal.",safe
+"Thank you for contacting our support team. We will respond shortly.",safe
+"Your monthly electricity bill is ready to view in your account.",safe
+"Hello, please find the project report attached for your review.",safe
+"Your order has been shipped and will arrive tomorrow.",safe
+"Reminder: Your appointment is scheduled for Monday at 11 AM.",safe
